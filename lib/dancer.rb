@@ -1,4 +1,4 @@
-require_relative './class_method_modules.rb'
+require_relative './class_methods_modules.rb'
 require_relative './dance_module.rb'
 require_relative './fancy_dance.rb'
 
